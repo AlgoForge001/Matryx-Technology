@@ -1,10 +1,9 @@
-import { Linkedin, Instagram, Mail } from "lucide-react";
+import { Instagram, Mail } from "lucide-react";
 import Image from "next/image";
 
 const socials = [
-    { icon: Linkedin, href: "#", label: "LinkedIn" },
-    { icon: Instagram, href: "#", label: "Instagram" },
-    { icon: Mail, href: "mailto:yourrealemail@example.com", label: "Email" },
+    { icon: Instagram, href: "https://www.instagram.com/matryx_technology?igsh=MWJzM3V4c2F2Z21xOQ==", label: "Instagram" },
+    { icon: Mail, href: "mailto:matryxtechnology@gmail.com", label: "Email" },
 ];
 
 export default function Footer() {
