@@ -44,8 +44,8 @@ export default function Footer() {
 
                 {/* Right — Large Logo */}
                 <div className="shrink-0">
-                    <a href="#home" className="inline-block bg-white rounded-xl p-4 border-6 border-primary">
-                        <Image src="/Matryx Technology.png" alt="Matryx Technology" width={480} height={160} className="h-44 w-auto" />
+                    <a href="#home" className="inline-block bg-white rounded-xl p-4 border-2 border-primary">
+                        <Image src="/newLOGO.png" alt="Matryx Technology" width={480} height={160} className="h-44 w-auto" />
                     </a>
                 </div>
             </div>
